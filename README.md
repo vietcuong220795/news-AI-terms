@@ -1,6 +1,6 @@
 # news-AI-terms
 
-Simple static legal pages for Terms of Service and Privacy Policy.
+Static GitHub Pages site for the NEWS-AI review surface, including a homepage demo, Terms of Service, and Privacy Policy.
 
 ## Access URLs
 
@@ -11,6 +11,11 @@ Simple static legal pages for Terms of Service and Privacy Policy.
 ## TikTok Verification
 
 - Verification file URL: https://vietcuong220795.github.io/news-AI-terms/terms.html/tiktokrnm4HnuOBOLHaeZ9N9gLd7mbPCJSfpC5.txt
+
+## Review Demo
+
+- Homepage review demo: https://vietcuong220795.github.io/news-AI-terms/
+- Includes a visible `Upload to TikTok` action in the Publishing Studio section
 
 ## Deployment
 
