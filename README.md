@@ -5,8 +5,12 @@ Simple static legal pages for Terms of Service and Privacy Policy.
 ## Access URLs
 
 - Home: https://vietcuong220795.github.io/news-AI-terms/
-- Terms of Service: https://vietcuong220795.github.io/news-AI-terms/terms.html
+- Terms of Service: https://vietcuong220795.github.io/news-AI-terms/terms.html/
 - Privacy Policy: https://vietcuong220795.github.io/news-AI-terms/privacy.html
+
+## TikTok Verification
+
+- Verification file URL: https://vietcuong220795.github.io/news-AI-terms/terms.html/tiktokrnm4HnuOBOLHaeZ9N9gLd7mbPCJSfpC5.txt
 
 ## Deployment
 
